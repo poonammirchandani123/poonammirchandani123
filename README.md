@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **HTML, CSS**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/permeshwary-bora/](https://www.linkedin.com/in/permeshwary-bora/)
+- 
 
-- 💬 Ask me about **Java,Selenium,TestNG,Cucumber,Rest Assured,Maven,Postman,Jira,Agile,CI/CD,Jenkins,JavaScript,SQL**
+  💬 Ask me about **Java,Selenium,TestNG,Cucumber,Rest Assured,Maven,Postman,Jira,Agile,CI/CD,Jenkins,JavaScript,SQL**
 
 - 📫 How to reach me **pmbora@gmail.com**
 
