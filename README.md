@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Permeshwary(Poonam) Bora</h1>
 <h3 align="center">Test Analyst</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poonammirchandani123&label=Profile%20views&color=0e75b6&style=flat" alt="poonammirchandani123" /> </p>
 
 - 🌱 I’m currently learning **HTML, CSS**
 
-- 
-
-  💬 Ask me about **Java,Selenium,TestNG,Cucumber,Rest Assured,Maven,Postman,Jira,Agile,CI/CD,Jenkins,JavaScript,SQL**
+-  💬 Ask me about **Java,Selenium,TestNG,Cucumber,Rest Assured,Maven,Postman,Jira,Agile,CI/CD,Jenkins,JavaScript,SQL**
 
 - 📫 How to reach me **pmbora@gmail.com**
 
