@@ -2,9 +2,7 @@
 <h3 align="center">Test Analyst</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poonammirchandani123&label=Profile%20views&color=0e75b6&style=flat" alt="poonammirchandani123" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS**
-
--  💬 Ask me about **Java,Selenium,TestNG,Cucumber,Rest Assured,Maven,Postman,Jira,Agile,CI/CD,Jenkins,JavaScript,SQL**
+-  💬 Ask me about **Java,Selenium,TestNG,Cucumber,Rest Assured,Maven,Postman,Jira,Agile,CI/CD,Jenkins,JavaScript,SQL,HTML,CSS
 
 - 📫 How to reach me **pmbora@gmail.com**
 
